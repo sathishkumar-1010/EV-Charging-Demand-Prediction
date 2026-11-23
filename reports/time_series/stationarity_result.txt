@@ -1,0 +1,3 @@
+ADF Statistic: -7.158544519618877
+P-value: 3.0099544925305605e-10
+The hourly series appears stationary.

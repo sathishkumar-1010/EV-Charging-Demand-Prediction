@@ -1,0 +1,16 @@
+Feature_Condition,LIME_Weight
+numerical_Hour > 0.86,5.496660501128707
+categorical_Location_camping <= 0.00,-3.604414311051639
+numerical_ChargerType <= -0.49,-1.7416045254780401
+categorical_Location_golf <= 0.00,-1.619161340741198
+numerical_ChargerType_PastSessionCount > -1.20,1.2657320474582339
+categorical_Location_public institution <= 0.00,-1.2182390097554485
+categorical_Location_market <= 0.00,0.9673811989525022
+categorical_TimeOfDay_Evening <= 0.00,-0.8976751316839758
+-0.23 < numerical_Location_PastAvgDemand <= 0.56,0.8817323901549443
+categorical_Location_accommodation <= 0.00,-0.7762177246133659
+numerical_Day > 0.72,0.6111304944460297
+categorical_Location_restaurant <= 0.00,-0.604242276409471
+numerical_Company_PastSessionCount > -1.34,-0.5974053916337472
+categorical_Location_company <= 0.00,0.5866850993372955
+categorical_Location_bus garage <= 0.00,-0.5519555283690554

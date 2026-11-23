@@ -1,0 +1,43 @@
+Feature,Importance
+numerical_Hour,389
+numerical_Location_PastAvgDemand,380
+numerical_Company_PastAvgDemand,335
+numerical_ChargerType_PastAvgDemand,286
+numerical_Location_PastSessionCount,272
+numerical_ChargerType_PastSessionCount,208
+numerical_Company_PastSessionCount,185
+numerical_Day,153
+categorical_Location_market,80
+numerical_DayOfWeek,78
+categorical_Location_public area,51
+categorical_Location_public institution,45
+categorical_Location_resort,40
+categorical_TimeOfDay_Evening,39
+categorical_Location_camping,34
+numerical_Month,34
+categorical_Location_hotel,30
+categorical_Location_apartment,28
+numerical_ChargerType,28
+categorical_DayName_Friday,27
+categorical_Location_company,26
+numerical_ChargerCompany,25
+categorical_DayName_Thursday,23
+categorical_TimeOfDay_Morning,22
+categorical_TimeOfDay_Afternoon,20
+categorical_TimeOfDay_Night,19
+categorical_TimeOfDay_Late Evening,18
+categorical_DayName_Sunday,18
+categorical_Location_public parking lot,17
+categorical_Location_restaurant,16
+categorical_DayName_Monday,15
+categorical_DayName_Wednesday,12
+categorical_Location_golf,12
+categorical_Location_sightseeing,10
+categorical_DayName_Tuesday,9
+categorical_DayName_Saturday,8
+categorical_Location_bus garage,5
+categorical_Location_accommodation,3
+numerical_IsWeekend,0
+numerical_Location_HasPastHistory,0
+numerical_ChargerType_HasPastHistory,0
+numerical_Company_HasPastHistory,0
